@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_expired_date</name>
+   <tag></tag>
+   <elementGuidId>01027a46-a475-4805-a00a-1c343153390c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;application&quot;]/div[3]/div/div/div/form/div[2]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;application&quot;]/div[3]/div/div/div/form/div[2]/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

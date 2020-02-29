@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send_Chating</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4179aa3d-8ca9-44b9-80c6-81eb7f36969c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>61ce555d-818a-4061-986c-058f2408ac98</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

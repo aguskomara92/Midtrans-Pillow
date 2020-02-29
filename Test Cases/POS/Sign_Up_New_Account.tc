@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign_Up_New_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbeb7988-4ee3-41af-83ac-b30f26879dc5</testCaseGuid>
+   <variable>
+      <defaultValue>'Agus'</defaultValue>
+      <description></description>
+      <id>48eb2177-5440-4787-b94e-20e2441cd76c</id>
+      <masked>false</masked>
+      <name>_first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Komara'</defaultValue>
+      <description></description>
+      <id>833ad104-e831-4e9d-b006-1489ba49cbeb</id>
+      <masked>false</masked>
+      <name>_last_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'agus_komara@outlook.com'</defaultValue>
+      <description></description>
+      <id>48fe1731-e4ce-4942-878a-b5d7e37fc427</id>
+      <masked>false</masked>
+      <name>_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'088812312345'</defaultValue>
+      <description></description>
+      <id>357a95c4-c641-4b75-a54e-e5f7e6b62724</id>
+      <masked>false</masked>
+      <name>_phone_number</name>
+   </variable>
+</TestCaseEntity>

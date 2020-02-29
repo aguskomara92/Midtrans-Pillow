@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>POS_Add_User</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>2d808a39-656b-4b3a-b0f1-9d34967a4b4d</testSuiteGuid>
+   <testCaseLink>
+      <guid>63790785-d80b-4c1f-8d95-3effdffb3c83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POS/Navigate_URL_POS</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f0023008-195b-4116-82ed-8d0a686d14ea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POS/Login_POS</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2b3b6b58-9773-43c4-b9ec-460b00ffb2b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POS/Customers</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f5359961-4103-465a-bae9-4d02455fa611</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POS/Sign_Up_New_Account</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>48eb2177-5440-4787-b94e-20e2441cd76c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>833ad104-e831-4e9d-b006-1489ba49cbeb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>48fe1731-e4ce-4942-878a-b5d7e37fc427</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>357a95c4-c641-4b75-a54e-e5f7e6b62724</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

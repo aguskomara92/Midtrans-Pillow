@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Go_To_WorkSpace</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>677ad920-415e-4597-8923-970a7d2beae9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a6fb366-f32f-45ba-a648-fd64e39b53ff</id>
+      <masked>false</masked>
+      <name>workspace</name>
+   </variable>
+</TestCaseEntity>

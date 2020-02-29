@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Slack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b20d8d6-2405-4681-942f-a2a53327cbc4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a650689-de7f-4a49-b710-e5e08e3f615c</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>894dd4fb-6d8b-4e13-b769-ab5dcc9ca9c5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
